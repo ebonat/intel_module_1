@@ -1,0 +1,1 @@
+STRING_ONE_SPACE=" - "
