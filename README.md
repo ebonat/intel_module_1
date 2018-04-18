@@ -1,1 +1,2 @@
-# intel_module_1
+# Advanced Python Programming for Everybody
+Module 1 Files
